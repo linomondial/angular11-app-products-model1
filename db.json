@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computerasasasasasasasasasa",
+      "price": "1300",
+      "quantity": "12",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 90,
+      "quantity": 15,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 260,
+      "quantity": 40,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "Smart TV",
+      "price": 1200,
+      "quantity": 32,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 870,
+      "quantity": 30,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "price": 9,
+      "quantity": 250,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "gfgfgfgf",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Lino la mondiale",
+      "price": "12443435",
+      "quantity": "23",
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "Table",
+      "price": "35",
+      "quantity": "43",
+      "selected": true,
+      "available": false,
+      "id": 9
+    },
+    {
+      "name": "zxczczc",
+      "price": "12",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "zxczczc",
+      "price": "12",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 11
+    }
+  ]
+}
